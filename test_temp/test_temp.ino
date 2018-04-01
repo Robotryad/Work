@@ -2,7 +2,7 @@
 #include <OneWire.h>
 
 //TEMP
-#define tempPin 4
+#define tempbodyPin 4
 #define powerTempPin 6
 
 int temp;
