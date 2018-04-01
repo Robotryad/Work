@@ -1,5 +1,5 @@
 #include <SoftwareSerial.h>
-
+//df;jv;qrjnvad;kjfesr;ofhpihpgiufgjpitufghjiusghdkvdntlkvjS{fak'fqemp'ofakd'lbsfmnfW./,M3QF;'ALK ]DPOAVKAE'LFNV'LKM FDPVK'FLKNEV'DLAKJV'OOIHGWRTGLKAN ZX'LJVKEKMVL;F'M AF/.,M'A
 // Инициализируем GSM
 SoftwareSerial SIM800(8, 9); // 8 - RX Arduino (TX SIM800L), 9 - TX Arduino (RX SIM800L)
 void setup() {
